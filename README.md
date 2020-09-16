@@ -1,5 +1,7 @@
 🎉 ![Employment Status](https://img.shields.io/badge/Employment_Status-Employed-purple.png) 🎉
 
+![cloud pic](https://github.com/Kyoyu7777/Kyoyu7777/raw/master/71-712329_source-pink-clouds-png.png)
+
 # Why you should choose me?
 |          Skill         | Kyoyu7777 | Person 1 | Person 2 | Person 3 |
 |:----------------------:|:---------:|:--------:|:--------:|:--------:|
