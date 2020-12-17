@@ -1,3 +1,5 @@
+_Previously known as **Kyoyu7777**_
+
 🎉 ![Employment Status](https://img.shields.io/badge/Employment_Status-Employed-purple.png) 🎉
 
 ![cloud pic](https://github.com/Kyoyu7777/Kyoyu7777/raw/master/71-712329_source-pink-clouds-png.png)
