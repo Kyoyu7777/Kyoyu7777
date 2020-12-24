@@ -21,5 +21,3 @@ _Previously known as **Kyoyu7777**_
 |          MongoDB/SQL/+ |     ✔️     |     ❌    |     ❌    |     ❓    |
 |            C#/C++/Java |     〰️    |     ❌    |     ❌    |     ❌    |
 |                  Unity |     〰️    |     ❌    |     ✔️    |     ❌    |
-
-![Discord](https://img.shields.io/discord/748045163493982329.png?label=Kyoyu.dev&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
