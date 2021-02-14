@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/Coffee-Black-black.png" alt="Coffee" />
 </p>
 
-# <p align="center">Why you should choose me?</p>
-<center>
+# Why you should choose me?
  
 |          Skill         | Kyoyu7777 | Person 1 | Person 2 | Person 3 |
 |:----------------------:|:---------:|:--------:|:--------:|:--------:|
@@ -37,4 +36,3 @@
 |            C#/C++/Java |     〰️    |     ❌    |     ❌    |     ❌    |
 |                  Unity |     〰️    |     ❌    |     ✔️    |     ❌    |
 
-</center>
