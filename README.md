@@ -1,15 +1,28 @@
-_Previously known as **Kyoyu7777**_
+<p align="center">
+  <i>
+    Previously known as <b>Kyoyu7777</b>
+  </i>
+</p>
 
-🎉 ![Employment Status](https://img.shields.io/badge/Employment_Status-Employed-purple.png) 🎉
+<p align="center">
+  🎉
+    <img src="https://img.shields.io/badge/Employment_Status-Employed-purple.png" alt="Employment Status (Employed)" />
+  🎉
+</p>
 
-![Xyoyu but Image](https://github.com/Kyoyu7777/Kyoyu7777/raw/master/xyoyu-dev-pf-txt.png)
+<p align="center">
+  <img src="https://github.com/Kyoyu7777/Kyoyu7777/raw/master/xyoyu-dev-pf-txt.png" alt="Xyoyu" />
+</p>
 
-![Tests](https://img.shields.io/badge/Tests-Passing-green.png) 
-![Skills](https://img.shields.io/badge/Skills-Advanced-white.png) 
-![Sleep](https://img.shields.io/badge/Sleep-Failing-red.png) 
-![Coffee](https://img.shields.io/badge/Coffee-Black-black.png) 
 
-# Why you should choose me?
+<p align="center">
+  <img src="https://img.shields.io/badge/Tests-Passing-green.png" alt="Tests" />
+  <img src="https://img.shields.io/badge/Skills-Advanced-white.png" alt="Skills" />
+  <img src="https://img.shields.io/badge/Sleep-Failing-red.png" alt="Sleep" />
+  <img src="https://img.shields.io/badge/Coffee-Black-black.png" alt="Coffee" />
+</p>
+
+# <p align="center">Why you should choose me?</p>
 |          Skill         | Kyoyu7777 | Person 1 | Person 2 | Person 3 |
 |:----------------------:|:---------:|:--------:|:--------:|:--------:|
 |    Avid Coffee Drinker |     ✔️     |     ❌    |     ❌    |     ✔️    |
