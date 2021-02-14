@@ -22,10 +22,9 @@
   <img src="https://img.shields.io/badge/Coffee-Black-black.png" alt="Coffee" />
 </p>
 
+# <p align="center">Why you should choose me?</p>
 <center>
-  # Why you should choose me?
-</center>
-<center>
+ 
 |          Skill         | Kyoyu7777 | Person 1 | Person 2 | Person 3 |
 |:----------------------:|:---------:|:--------:|:--------:|:--------:|
 |    Avid Coffee Drinker |     ✔️     |     ❌    |     ❌    |     ✔️    |
@@ -37,4 +36,5 @@
 |          MongoDB/SQL/+ |     ✔️     |     ❌    |     ❌    |     ❓    |
 |            C#/C++/Java |     〰️    |     ❌    |     ❌    |     ❌    |
 |                  Unity |     〰️    |     ❌    |     ✔️    |     ❌    |
+
 </center>
