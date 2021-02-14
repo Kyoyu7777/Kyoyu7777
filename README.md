@@ -23,8 +23,9 @@
 </p>
 
 <center>
-# Why you should choose me?
-  
+  # Why you should choose me?
+</center>
+<center>
 |          Skill         | Kyoyu7777 | Person 1 | Person 2 | Person 3 |
 |:----------------------:|:---------:|:--------:|:--------:|:--------:|
 |    Avid Coffee Drinker |     ✔️     |     ❌    |     ❌    |     ✔️    |
