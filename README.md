@@ -13,26 +13,3 @@
 <p align="center">
   <img src="https://github.com/Kyoyu7777/Kyoyu7777/raw/master/xyoyu-dev-pf-txt.png" alt="Xyoyu" />
 </p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tests-Passing-green.png" alt="Tests" />
-  <img src="https://img.shields.io/badge/Skills-Advanced-white.png" alt="Skills" />
-  <img src="https://img.shields.io/badge/Sleep-Failing-red.png" alt="Sleep" />
-  <img src="https://img.shields.io/badge/Coffee-Black-black.png" alt="Coffee" />
-</p>
-
-# Why you should choose me?
- 
-|          Skill         | Kyoyu7777 | Person 1 | Person 2 | Person 3 |
-|:----------------------:|:---------:|:--------:|:--------:|:--------:|
-|    Avid Coffee Drinker |     ✔️     |     ❌    |     ❌    |     ✔️    |
-| Can Work Well Remotely |     ✔️     |     ❌    |     ❌    |     ❌    |
-|             Full Stack |     ✔️     |     ❌    |     ❌    |     ❌    |
-|               CSS/SASS |     ✔️     |     ✔️    |     ❌    |     ❌    |
-|               ReactJS+ |     ✔️     |     ❌    |     ❌    |     ✔️    |
-|                NodeJS+ |     ✔️     |     ❌    |     ✔️    |     ❌    |
-|          MongoDB/SQL/+ |     ✔️     |     ❌    |     ❌    |     ❓    |
-|            C#/C++/Java |     〰️    |     ❌    |     ❌    |     ❌    |
-|                  Unity |     〰️    |     ❌    |     ✔️    |     ❌    |
-
